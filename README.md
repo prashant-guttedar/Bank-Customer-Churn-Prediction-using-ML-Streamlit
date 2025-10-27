@@ -87,7 +87,7 @@ Outcome:
 
 <img width="1749" height="964" alt="Screenshot 2025-10-27 200158" src="https://github.com/user-attachments/assets/a77c929e-b5cb-45a6-99e9-e266e8eb6c03" />
 
-<img width="1749" height="964" alt="Screenshot 2025-10-27 200158" src="https://github.com/user-attachments/assets/9b90e9d1-9f58-4a66-89e0-cc56ee824f15" />
+<img width="1811" height="690" alt="Screenshot 2025-10-27 200308" src="https://github.com/user-attachments/assets/56188c93-7cdd-4bd5-a12e-0b6aae2a75f1" />
 
 <img width="1171" height="693" alt="Screenshot 2025-10-27 200328" src="https://github.com/user-attachments/assets/d836d824-6df3-4420-945f-920dc6d206e1" />
 
