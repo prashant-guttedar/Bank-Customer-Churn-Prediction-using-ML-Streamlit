@@ -89,7 +89,8 @@ Outcome:
 
 <img width="1811" height="690" alt="Screenshot 2025-10-27 200308" src="https://github.com/user-attachments/assets/56188c93-7cdd-4bd5-a12e-0b6aae2a75f1" />
 
-<img width="1171" height="693" alt="Screenshot 2025-10-27 200328" src="https://github.com/user-attachments/assets/d836d824-6df3-4420-945f-920dc6d206e1" />
+
+<img width="1811" height="693" alt="Screenshot 2025-10-27 200328" src="https://github.com/user-attachments/assets/d836d824-6df3-4420-945f-920dc6d206e1" />
 
 
 
